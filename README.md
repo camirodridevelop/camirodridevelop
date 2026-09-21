@@ -12,6 +12,14 @@ Desarrolladora web y de automatizaciones en **Uruguay** 🇺🇾. Construyo siti
 
 **[whatsapp-restaurant-bot-make](https://github.com/camirodridevelop/whatsapp-restaurant-bot-make)**: asistente de WhatsApp para restaurantes que transcribe audios, toma reservas en Google Calendar, recuerda el historial de cada cliente y deriva a un humano cuando hace falta.
 
+#### 📂 Otros proyectos
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [mern](https://github.com/camirodridevelop/mern) | Autenticación full stack: registro, login con JWT y sesión persistente | Node.js, Express, MongoDB, React |
+| [HotelReservasSql](https://github.com/camirodridevelop/HotelReservasSql) | Base de datos para gestionar reservas de un hotel, con consultas | MySQL |
+| [starbucks](https://github.com/camirodridevelop/starbucks) | Maquetación de una página web ([ver sitio](https://camirodridevelop.github.io/starbucks/Starbucks3/)) | HTML, CSS |
+
 #### 🛠️ Tecnologías
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
